@@ -16,6 +16,7 @@ public class Buoi_2_Bai_4 {
                 arr[i+1] -=32;
                 i++;
             }
+            if()
             
         }
         for(int i = 0 ; i<l ; i++){
